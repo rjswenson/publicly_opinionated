@@ -32,5 +32,5 @@ listening (because they know me).
 
 ##### Sider~Projects
 1.  [war_room_viewer - a card catalog in rails form](https://github.com/rjswenson/war_room_viewer)
-2.  [war_room - imagine if Dota, LoL etc had delicious custom map love with VTECH, turret D, and other wonderful minigames](http://realorsatire.com/) note: its a closed source game in progress
+2.  [war_room - imagine if Dota, LoL etc had delicious custom map love with VTECH, turret D, and other wonderful minigames](http://realorsatire.com/) note: its a closed source game in progress 
 

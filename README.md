@@ -24,11 +24,12 @@ listening (because they know me).
 5.  Think, be yourself, and have fun.
 
 #### To do lists
-- [ ] does this work? it does!  (`checkbox => - [ ]`)
-- [ ] scaffold out dir structure
+- [X] does this work? it does!
+- [X] scaffold out dir structure
 - [ ] convert audio into something that sounds better
 - [ ] break it into parts? maybe.. I like as-is (convince me otherwise)
 - [ ] transcribe to text the audio (programatically would be best, open source please!)
+- [ ] get personal website to not be broken
 - [ ] remind people to try out Linux distro "https://www.linuxmint.com/edition.php?id=186" (LMDE 2 "Betsy") Check the `sha` before installing.
 
 

@@ -1,7 +1,7 @@
 # publicly_opinionated
 ### Opinion > Fact > Debate > Opinion
 
-An homage to my mentor Michael T Miyoshi.
+An homage to my mentor [Michael T Miyoshi](http://www.michaeltmiyoshi.com/).
 
 Feel free to purchase his book:
 "Musings of a Mediocre Man"

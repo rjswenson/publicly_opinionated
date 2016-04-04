@@ -1,11 +1,11 @@
 # publicly_opinionated
 ### Opinion > Fact > Debate > Opinion
+##### thoughts, a call to act, and you.
 
 An homage to my mentor [Michael T Miyoshi](http://www.michaeltmiyoshi.com/).
 
 Feel free to purchase his book:
-"Musings of a Mediocre Man"
-http://providence-foundation.org/content/fb2-michael-t-miyoshi-excellent-musings-mediocre-man-free
+[Musings of a Mediocre Man](http://providence-foundation.org/content/fb2-michael-t-miyoshi-excellent-musings-mediocre-man-free)
 
 Yes, you can also find his works for free online.  Its kindof the theme of this whole thing :D
 

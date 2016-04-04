@@ -17,7 +17,7 @@ A stranger probably linked you here.  Either that or you are one of the 5 people
 listening (because they know me).
 
 #### Core Philosophy
-1.  Hippocratic Oath
+1.  [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath)(help, as you can.  never harm)
 2.  Form `opinions`, which are not funtementally worse than `fact`
 3.  evaluate your opinions based on YOUR perfect information (you can always find more on Google~)
 4.  evaluate your opinions in leu of NEW information (provided by tv, peers, or other sources)

@@ -23,4 +23,3 @@ listening (because they know me).
 - [ ] scaffold out dir structure
 - [ ] convert audio into something that sounds better
 - [ ] break it into parts? maybe.. I like as-is (convince me otherwise)
-- 

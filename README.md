@@ -28,3 +28,9 @@ listening (because they know me).
 - [ ] break it into parts? maybe.. I like as-is (convince me otherwise)
 - [ ] transcribe to text the audio (programatically would be best, open source please!)
 - [ ] remind people to try out Linux distro "https://www.linuxmint.com/edition.php?id=186" (LMDE 2 "Betsy") Check the `sha` before installing.
+
+
+##### Sider~Projects
+1.  [war_room_viewer - a card catalog in rails form](https://github.com/rjswenson/war_room_viewer)
+2.  [war_room - imagine if Dota, LoL etc had delicious custom map love with VTECH, turret D, and other wonderful minigames](http://realorsatire.com/) note: its a closed source game in progress
+

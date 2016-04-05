@@ -48,3 +48,5 @@ pintrest          =>  `robinswensonhea`
 discord.gg        =>
 facebook          =>
 google            =>
+
+(Comment: Make purpose of repo more explicit.)

@@ -15,3 +15,11 @@ https://github.com/rjswe.../publicly_opinionated/tree/master
 With Github, my goal is for people to fact check my docs and audiocasts and file pull requests(addendum/fixes). Id love either online commentary about my README or some topic in particular you'd like to hear about.
 
 ninjaedit: you can click on my link and look at the page without any login or anything at any time on any device known to man including but not limited to a Raspberry Pis running SteamOS.
+
+
+
+- Been pretty quiet since Christian dropped the hammer in 2014.  I am a Duvall/Cedarcrest grad and am creating a FREE, no money'd business art and tech project.  It is heavily inspired by one of my favorite teachers at the school, Michael T Miyoshi.  Anyone can look, read, and consider the theories behind the project.  If you want show a monicrum of support, simply click the star in the upper right corner of the GitHub screen.  Again, all this is perfectly free.
+
+www.github.com/rjswenson/publicly_opinionated
+
+please support my endeavor and at least read part of the README linked.

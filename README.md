@@ -40,9 +40,9 @@ listening (because they know me).
 
 #### Core Philosophy
 1.  [Hippocratic Oath](https://en.wikipedia.org/wiki/Hippocratic_Oath) (help, as you can.  never harm)
-2.  Form `opinions`, which are not funtementally worse than `fact`
+2.  Form `opinions`, which are not fundamentally worse than `fact`
 3.  evaluate your opinions based on YOUR perfect information (you can always find more on Google~)
-4.  evaluate your opinions in leu of NEW information (provided by tv, peers, or other sources)
+4.  evaluate your opinions in lieu of NEW information (provided by tv, peers, or other sources)
 5.  Think, be yourself, and have fun.
 
 =============================================================
@@ -51,7 +51,7 @@ Now, if you've read this far I already appreciate your effort.  It means that yo
 
 What I want from you, and seriously [literally](https://www.google.com/search?q=definition%20literal&rct=j) no pressure, is to read one thing a day, or do one thing that I mention in one of my articles, or listen to one of my audio segments, or make one pull request to github.  In fact, I'd call it a win if you could describe what [Github](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) is to me, your dog, or [cthulhu](https://www.youtube.com/embed/Ob7PfxvJCN0) at some point over a warm meal.
 
-So, will you join me in this crazy endevour?
+So, will you join me in this crazy endeavour?
 - download git as mentioned [previous](https://help.github.com/desktop/guides/getting-started/installing-github-desktop/)
 - read [guides](https://help.github.com/articles/set-up-git/) on how to install git and ssh and other fun stuff if you want
 - download this `repo` via [zip](http://stackoverflow.com/questions/2751227/how-to-download-source-in-zip-format-from-github/34174216#34174216) is the easiest way to get up and running though
@@ -71,14 +71,14 @@ So, will you join me in this crazy endevour?
 =============================================================
 ##### Sider~Projects
 1.  [war_room_viewer - a card catalog in rails form](https://github.com/rjswenson/war_room_viewer)
-2.  [war_room - imagine if Dota, LoL etc had delicious custom map love with VTECH, turret D, and other wonderful minigames](http://realorsatire.com/) note: its a closed source game in progress 
+2.  [war_room - imagine if Dota, LoL etc had delicious custom map love with VTECH, turret D, and other wonderful minigames](http://realorsatire.com/) note: its a closed source game in progress
 
 
 =============================================================
 #### Media Persona
 github            =>  `rjswenson`
 instagrams        =>  `robin.j.sh`
-reddit            =>  
+reddit            =>
 twitch            =>
 pintrest          =>  `robinswensonhea`
 discord.gg        =>

@@ -2,12 +2,12 @@
 ### Opinion > Fact > Debate > Opinion
 ##### thoughts, a call to act, and you.
 
-An homage to my mentor [Michael T Miyoshi](http://www.michaeltmiyoshi.com/).
+An homage to my mentor [Michael T Miyoshi](http://mediocreman.com/).
 
 Feel free to purchase his book:
 [Musings of a Mediocre Man](http://providence-foundation.org/content/fb2-michael-t-miyoshi-excellent-musings-mediocre-man-free)
 
-Yes, you can also find his works for free online.  Its kindof the theme of this whole thing :D
+Yes, you can also find his poems, stories, and thoughts for free online.  Its kindof the theme of this whole thing :D
 
 =============================================================
 #### Gimme your stump speech! (Based on a True Story)
@@ -47,6 +47,13 @@ listening (because they know me).
 
 =============================================================
 #### Calls to Act
+
+> “We ought to give the whole of our attention to the most insignificant
+> and most easily mastered facts, and remain a long time in contemplation
+> of them until we are accustomed to behold the truth clearly and distinctly.”
+> [René Descartes](https://www.brainpickings.org/2016/03/31/descartes-rules-for-the-direction-of-the-mind/)
+
+
 Now, if you've read this far I already appreciate your effort.  It means that you can call/text/kick me and talk to me about this stuff.  Does it sound ridiculous?  Is it a dangerous idea that will get me assassinated by the FBI?  Who knows.
 
 What I want from you, and seriously [literally](https://www.google.com/search?q=definition%20literal&rct=j) no pressure, is to read one thing a day, or do one thing that I mention in one of my articles, or listen to one of my audio segments, or make one pull request to github.  In fact, I'd call it a win if you could describe what [Github](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) is to me, your dog, or [cthulhu](https://www.youtube.com/embed/Ob7PfxvJCN0) at some point over a warm meal.

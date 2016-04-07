@@ -12,6 +12,7 @@ Yes, you can also find his works for free online.  Its kindof the theme of this 
 
 #### Gimme your stump speech!(Based on a True Story)
 ###### Editors note:  I'm bad at spelling, file a pull request if you care
+###### Also, I'd REALLY appreciate getting this repo [starred](https://developer.github.com/v3/activity/starring/) so the credibility and thus heart of this project can take light
 
 Welcome to my [magnum opus](https://www.google.com/search?q=magnum+opus+definition), a project derived from spring sun, blue clouds, comfort, and love.  Its a test on a theory, which is that [I](../media/img/me_lantern300x300.jpg) have had since I realized that in my life almost every stupid thing I do from now on will be on my [permanent record](http://thenewinquiry.com/essays/permanent-records/).
 
@@ -48,7 +49,13 @@ Now, if you've read this far I already appreciate your effort.  It means that yo
 
 What I want from you, but seriously [literally](https://www.google.com/search?q=definition%20literal&rct=j) no pressure, is to read one thing a day, or do one thing that I mention in ne of my articles, or listen to one of my audio segments, or make one pull request to github.  In fact, I'd call it a win if you could describe what [Github](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) is to me, your dog, or [cthulhu](https://www.youtube.com/embed/Ob7PfxvJCN0) at some point over a meal.
 
-So, will you join me in this crazy endevour 
+So, will you join me in this crazy endevour?
+- download git as before
+- read [guides](https://help.github.com/articles/set-up-git/) on how to install git and ssh and other fun stuff if you want
+- download this `repo` via [zip](http://stackoverflow.com/questions/2751227/how-to-download-source-in-zip-format-from-github/34174216#34174216) is the easiest way to get up and running though
+- open my files in a notepad type thing
+- edit them in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format which is like html but WAY easier
+- file a [pull request](https://help.github.com/articles/creating-a-pull-request/) or if that sounds too complicated ask your technologically advanced friend/me to help
 
 #### To do lists
 - [X] does this work? it does!

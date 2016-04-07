@@ -11,12 +11,13 @@ Yes, you can also find his works for free online.  Its kindof the theme of this 
 
 
 #### Gimme your stump speech!(Based on a True Story)
-###### Editors note:  I'm bad at spelling, file a pull request if you care
-###### Also, I'd REALLY appreciate getting this repo [starred](https://developer.github.com/v3/activity/starring/) so the credibility and thus heart of this project can take light
+ Editors note:  I'm bad at spelling, file a pull request if you care
+ Also, I'd REALLY appreciate getting this repo [starred :star2:](https://developer.github.com/v3/activity/starring/) so the credibility and thus heart of this project can take light.
 
-Welcome to my [magnum opus](https://www.google.com/search?q=magnum+opus+definition), a project derived from spring sun, blue clouds, comfort, and love.  Its a test on a theory, which is that [I](../media/img/me_lantern300x300.jpg) have had since I realized that in my life almost every stupid thing I do from now on will be on my [permanent record](http://thenewinquiry.com/essays/permanent-records/).
+Welcome to my [magnum opus](https://www.google.com/search?q=magnum+opus+definition), a project derived from spring sun, blue clouds, comfort, and love.  Its a test on a theory, which is that [I](./media/img/me_lantern300x300.jpg) have had since I realized that in my life almost every stupid thing I do from now on will be on my [permanent record](http://thenewinquiry.com/essays/permanent-records/).
 
-[Growing up with technology](../media/img/died_of_dysentery.jpg), I've been wary of putting my data or info on the internet so I don't get hacked.  This project's goal is the opposite.  Its to spill my opinions (ALWAYS based on `facts`) upon you all for judgement.  Its time someone starts an(inter)national dialogue about:
+[Growing up with technology](./media/img/died_of_dysentery.jpg), I've been wary of putting my data or info on the internet so I don't get hacked.  This project's goal is the opposite.  Its to spill my opinions (ALWAYS based on `facts`) upon you all for judgement.  Its time someone starts an (inter)national dialogue about:
+
 
 1.  the state of the nation(USA in my case) and the World (scary and not scary both)
 
@@ -24,9 +25,9 @@ Welcome to my [magnum opus](https://www.google.com/search?q=magnum+opus+definiti
 
 3.  share in this whole experience with people I know, and also those I don't.  After a long session of thinking, my main philosophy solidified.  That being said, everything here is a MASSIVE amalgymation of all the late night talks with friends or wise words from [teachers](https://youtu.be/o03nqHXAEyo).  As much as my brain has attempted from age 0, asking questions has been a large part of my life.  Questions lead to answers, and answers from a professsional in any field (including stupid stuff like [pooping from a butt](http://wellnessmama.com/7013/squatty-potty-review/) can save hundreds of hours personal experimentation and research.
 
-4.  Humans are all unique little snowflakes so if all this sounds a little cheeze it boils down to > I beleive we are all individual [singularities]( singularity article here).
+4.  Humans are all unique little snowflakes so if all this sounds a little cheeze it boils down to > I beleive we are all individual [singularities](http://now.dartmouth.edu/2013/03/neuroscientist-says-humans-are-wired-free-will).
 
-5.  Internet gives us almost [GODLIKE](../media/img/w33_mag-techies_ultrakill.png)(no but [really](https://en.wikipedia.org/wiki/Technological_singularity)) power for all including good, evil, and [exciting](http://www.wareable.com/wareable50/best-wearable-tech) and I want to give you my opinionated feels for all of this.  That way I don't have to explain myself at dinner parties and other people can call my opinions out as BS.
+5.  Internet gives us almost [GODLIKE](./media/img/w33_mag-techies_ultrakill.png)(no but [really](https://en.wikipedia.org/wiki/Technological_singularity)) power for all including good, evil, and [exciting](http://www.wareable.com/wareable50/best-wearable-tech) and I want to give you my opinionated feels for all of this.  That way I don't have to explain myself at dinner parties and other people can call my opinions out as BS.
 
 
 #### What makes me so special?
@@ -47,10 +48,10 @@ listening (because they know me).
 #### Calls to Act
 Now, if you've read this far I already appreciate your effort.  It means that you can call/text/kick me and talk to me about this stuff.  Does it sound ridiculous?  Is it a dangerous idea that will get me assassinated by the FBI?  Who knows.
 
-What I want from you, but seriously [literally](https://www.google.com/search?q=definition%20literal&rct=j) no pressure, is to read one thing a day, or do one thing that I mention in ne of my articles, or listen to one of my audio segments, or make one pull request to github.  In fact, I'd call it a win if you could describe what [Github](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) is to me, your dog, or [cthulhu](https://www.youtube.com/embed/Ob7PfxvJCN0) at some point over a meal.
+What I want from you, and seriously [literally](https://www.google.com/search?q=definition%20literal&rct=j) no pressure, is to read one thing a day, or do one thing that I mention in one of my articles, or listen to one of my audio segments, or make one pull request to github.  In fact, I'd call it a win if you could describe what [Github](http://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/) is to me, your dog, or [cthulhu](https://www.youtube.com/embed/Ob7PfxvJCN0) at some point over a warm meal.
 
 So, will you join me in this crazy endevour?
-- download git as before
+- download git as mentioned [previous](https://help.github.com/desktop/guides/getting-started/installing-github-desktop/)
 - read [guides](https://help.github.com/articles/set-up-git/) on how to install git and ssh and other fun stuff if you want
 - download this `repo` via [zip](http://stackoverflow.com/questions/2751227/how-to-download-source-in-zip-format-from-github/34174216#34174216) is the easiest way to get up and running though
 - open my files in a notepad type thing

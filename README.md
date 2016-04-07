@@ -1,6 +1,6 @@
 # publicly_opinionated
 ### Opinion > Fact > Debate > Opinion
-##### thoughts, a call to act, and you.
+##### thoughts, a call to act, and you. (warning: PG13+)
 
 An homage to my mentor [Michael T Miyoshi](http://mediocreman.com/).
 
@@ -51,7 +51,7 @@ listening (because they know me).
 > “We ought to give the whole of our attention to the most insignificant
 > and most easily mastered facts, and remain a long time in contemplation
 > of them until we are accustomed to behold the truth clearly and distinctly.”
-> [René Descartes](https://www.brainpickings.org/2016/03/31/descartes-rules-for-the-direction-of-the-mind/)
+> -[René Descartes](https://www.brainpickings.org/2016/03/31/descartes-rules-for-the-direction-of-the-mind/)
 
 
 Now, if you've read this far I already appreciate your effort.  It means that you can call/text/kick me and talk to me about this stuff.  Does it sound ridiculous?  Is it a dangerous idea that will get me assassinated by the FBI?  Who knows.
@@ -65,6 +65,7 @@ So, will you join me in this crazy endevour?
 - open my files in a notepad type thing
 - edit them in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format which is like html but WAY easier
 - file a [pull request](https://help.github.com/articles/creating-a-pull-request/) or if that sounds too complicated ask your technologically advanced friend/me to help
+
 =============================================================
 #### To do lists
 - [X] does this work? it does!

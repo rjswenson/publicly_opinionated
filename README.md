@@ -92,3 +92,8 @@ discord.gg        =>
 facebook          =>
 google            =>
 
+--------
+
+© 2016 Robin J. Swenson-Healey
+MIT LICENSE JUST FOR YOU(US)
+

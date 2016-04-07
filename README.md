@@ -9,12 +9,13 @@ Feel free to purchase his book:
 
 Yes, you can also find his works for free online.  Its kindof the theme of this whole thing :D
 
-
-#### Gimme your stump speech!(Based on a True Story)
+=============================================================
+#### Gimme your stump speech! (Based on a True Story)
  Editors note:  I'm bad at spelling, file a pull request if you care
  Also, I'd REALLY appreciate getting this repo [starred :star2:](https://developer.github.com/v3/activity/starring/) so the credibility and thus heart of this project can take light.
 
-Welcome to my [magnum opus](https://www.google.com/search?q=magnum+opus+definition), a project derived from spring sun, blue clouds, comfort, and love.  Its a test on a theory, which is that [I](./media/img/me_lantern300x300.jpg) have had since I realized that in my life almost every stupid thing I do from now on will be on my [permanent record](http://thenewinquiry.com/essays/permanent-records/).
+=============================================================
+Welcome to my **[Magnum Opus](https://www.google.com/search?q=magnum+opus+definition)**, a project derived from spring sun, blue clouds, comfort, and love.  Its a test on a theory, which is that [I](./media/img/me_lantern300x300.jpg) have had since I realized that in my life almost every stupid thing I do from now on will be on my [permanent record](http://thenewinquiry.com/essays/permanent-records/).
 
 [Growing up with technology](./media/img/died_of_dysentery.jpg), I've been wary of putting my data or info on the internet so I don't get hacked.  This project's goal is the opposite.  Its to spill my opinions (ALWAYS based on `facts`) upon you all for judgement.  Its time someone starts an (inter)national dialogue about:
 
@@ -29,7 +30,7 @@ Welcome to my [magnum opus](https://www.google.com/search?q=magnum+opus+definiti
 
 5.  Internet gives us almost [GODLIKE](./media/img/w33_mag-techies_ultrakill.png)(no but [really](https://en.wikipedia.org/wiki/Technological_singularity)) power for all including good, evil, and [exciting](http://www.wareable.com/wareable50/best-wearable-tech) and I want to give you my opinionated feels for all of this.  That way I don't have to explain myself at dinner parties and other people can call my opinions out as BS.
 
-
+=============================================================
 #### What makes me so special?
 I'm Not!  Thats the fun part, I'm just a learned young man of the middling class.  I have opinions, based on `facts`.  My opinions could be objectively wrong (bad `facts` or a boogieman word [stereotypes](http://www.beyondintractability.org/essay/stereotypes)).  OR! It could be cause I didn't have the knowledge YOU have.  Cause you lived/felt/talked-to/understood the situation better than me.  Is that you?  Then PLEASE fork my OPEN SOURCE MIT licensed repo and file a `PULL REQUEST` EPIC CAPS LINE!
 
@@ -44,7 +45,7 @@ listening (because they know me).
 4.  evaluate your opinions in leu of NEW information (provided by tv, peers, or other sources)
 5.  Think, be yourself, and have fun.
 
-
+=============================================================
 #### Calls to Act
 Now, if you've read this far I already appreciate your effort.  It means that you can call/text/kick me and talk to me about this stuff.  Does it sound ridiculous?  Is it a dangerous idea that will get me assassinated by the FBI?  Who knows.
 
@@ -57,7 +58,7 @@ So, will you join me in this crazy endevour?
 - open my files in a notepad type thing
 - edit them in [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format which is like html but WAY easier
 - file a [pull request](https://help.github.com/articles/creating-a-pull-request/) or if that sounds too complicated ask your technologically advanced friend/me to help
-
+=============================================================
 #### To do lists
 - [X] does this work? it does!
 - [X] scaffold out dir structure
@@ -67,13 +68,13 @@ So, will you join me in this crazy endevour?
 - [ ] get personal website to not be broken
 - [ ] remind people to try out Linux distro "https://www.linuxmint.com/edition.php?id=186" (LMDE 2 "Betsy") Check the `sha` before installing.
 
-
+=============================================================
 ##### Sider~Projects
 1.  [war_room_viewer - a card catalog in rails form](https://github.com/rjswenson/war_room_viewer)
 2.  [war_room - imagine if Dota, LoL etc had delicious custom map love with VTECH, turret D, and other wonderful minigames](http://realorsatire.com/) note: its a closed source game in progress 
 
 
-
+=============================================================
 #### Media Persona
 github            =>  `rjswenson`
 instagrams        =>  `robin.j.sh`

@@ -20,11 +20,11 @@ Welcome to my **[Magnum Opus](https://www.google.com/search?q=magnum+opus+defini
 [Growing up with technology](./media/img/died_of_dysentery.jpg), I've been wary of putting my data or info on the internet so I don't get hacked.  This project's goal is the opposite.  Its to spill my opinions (ALWAYS based on `facts`) upon you all for judgement.  Its time someone starts an (inter)national dialogue about:
 
 
-1.  the state of the nation(USA in my case) and the World (scary and not scary both)
+1.  the state of the World on all fronts including nature, technology, and politics
 
-2.  congratulate or ridicule leaders/orgs/you for hard learned opinions/hot-air(lies?)
+2.  congratulate or ridicule leaders/orgs/you for hard learned opinions/hidden lies
 
-3.  share in this whole experience with people I know, and also those I don't.  After a long session of thinking, my main philosophy solidified.  That being said, everything here is a MASSIVE amalgymation of all the late night talks with friends or wise words from [teachers](https://youtu.be/o03nqHXAEyo).  As much as my brain has attempted from age 0, asking questions has been a large part of my life.  Questions lead to answers, and answers from a professsional in any field (including stupid stuff like [pooping from a butt](http://wellnessmama.com/7013/squatty-potty-review/) can save hundreds of hours personal experimentation and research.
+3.  share in this whole experience of life with a globally diverse audience.  Talk with friends or wise words from [teachers](https://youtu.be/o03nqHXAEyo) make us stronger humans.  As much as my brain has attempted from age 0, asking questions has been a large part of my life.  Questions lead to answers, and answers from a professsional in any field (including stupid stuff like [pooping from a butt](http://wellnessmama.com/7013/squatty-potty-review/)) can save hundreds of hours personal experimentation and research
 
 4.  Humans are all unique little snowflakes so if all this sounds a little cheeze it boils down to > I beleive we are all individual [singularities](http://now.dartmouth.edu/2013/03/neuroscientist-says-humans-are-wired-free-will).
 

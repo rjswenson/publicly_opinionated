@@ -2,6 +2,8 @@
 ### Opinion > Fact > Debate > Opinion
 ##### thoughts, a call to act, and you. (warning: PG13+)
 
+NOTE:  I am way past overdue actually building this out.  Part is work/life/stress , part is laziness.  I'll try to calm down and actually get some of this done soon(tm).
+
 An homage to my mentor [Michael T Miyoshi](http://mediocreman.com/).
 
 Feel free to purchase his book:
